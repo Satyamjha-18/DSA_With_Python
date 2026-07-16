@@ -16,6 +16,7 @@ This repository contains:
 01_Extraction_of_digits
 02_Factor_of_number
 03_Frequency-map/dictionary
+04_hasing_in_python
 ```
 
 I am solving DSA problems from Basic to Advanced using Python.
