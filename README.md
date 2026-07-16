@@ -13,9 +13,9 @@ This repository contains:
 ## Repository Structure
 
 ```text
-01_Maths
-02_Recursion
-03_Arrays
+01_Extraction_of_digits
+02_Factor_of_number
+03_Frequency-map/dictionary
 04_Searching
 05_Sorting
 06_Strings
